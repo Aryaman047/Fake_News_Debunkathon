@@ -9,3 +9,7 @@ git remote -v
 git add .
 
 git commit -m "initial instruction commit"
+
+**make new branch**
+
+git checkout -b new-branch
