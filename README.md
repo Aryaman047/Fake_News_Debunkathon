@@ -15,6 +15,7 @@ Python Notebooks
 Notebook directory contains ipynb notebooks for the project
 
 1.Web Scraping: Notebooks for data collection using Beautiful Soup
+
 2.Models: Contains notebooks for data preprocessing and model building
 
 
@@ -77,7 +78,4 @@ Then run the application.py file to start the server
 - [@Kumar Shashwat](https://github.com/kshashwat22)
 
 
-## License
-
-[GNU (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
