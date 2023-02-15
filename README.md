@@ -68,7 +68,7 @@ Then run the application.py file to start the server
 
 ## Documentation
 
-[Documentation](https://drive.google.com/file/d/14ey5YmZHHn8ETrGPBC-xrp6uTMYY_PSP/view?usp=sharing)
+[Documentation](https://drive.google.com/file/d/17U4LbZJf4rGT8dOH1HxoEFcakRPp6dE1/view?usp=sharing)
 
 
 ## Authors
